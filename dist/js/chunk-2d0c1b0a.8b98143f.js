@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c1b0a"],{"46b4":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" 这是课程管理页面 ")])},a=[],u={},r=u,s=t("2877"),b=Object(s["a"])(r,c,a,!1,null,"2aed3bdb",null);n["default"]=b.exports}}]);
+//# sourceMappingURL=chunk-2d0c1b0a.8b98143f.js.map

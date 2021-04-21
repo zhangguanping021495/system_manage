@@ -1,0 +1,14 @@
+.manage-user{
+    height: 97%;
+    padding: 10px;
+    overflow: hidden;
+    .manage-header{
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;  /* 侧轴起点对齐*/
+        
+    }
+    .manage-table{
+        height: 100%;
+    }
+}
